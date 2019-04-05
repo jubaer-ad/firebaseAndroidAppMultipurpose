@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1048782800489",
+    "firebase_url": "https://multipurpose-25ede.firebaseio.com",
+    "project_id": "multipurpose-25ede",
+    "storage_bucket": "multipurpose-25ede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048782800489:android:6a4e7bffa1ec1614",
+        "android_client_info": {
+          "package_name": "com.jubaer.multipurpose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048782800489-aoi1ehs92daso7ihqn34561olaamjmh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jubaer.multipurpose",
+            "certificate_hash": "42f030ae6d48442cd656995d0f7fc599f363d0fc"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ6oWX2r1kctYtXUzS7ZQc49NPeQqpPD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048782800489-rl313u42vd0er1m4tc866hlpgpldtc7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
